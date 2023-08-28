@@ -1,3 +1,3 @@
-Project in development / 80 % end
+Project in development / 70 % end
 
 Ticket creation web site
